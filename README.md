@@ -1,6 +1,6 @@
 # tfjs-mobilenet-learner
 
-A simple two-file example application for the students at Tampere University of Applied Sciences. 
+A simple two-file example application for the students at Tampere University of Applied Sciences. [Live demo here.](https://eppu.github.io/tfjs-mobilenet-learner/index.html)
 
 Lets you use your webcam to train a simple K-Nearest Neighbor classifier directly in your browser.
 
